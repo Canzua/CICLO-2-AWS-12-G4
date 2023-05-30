@@ -8,11 +8,11 @@
   "results": [
       {
           "id": 1,
-          "name": "Rick Sanchez",
-          "status": "Alive",
-          "species": "Human",
+          "name": "Andrea Siqueira dos Santos",
+          "status": "disponível para contratação",
+          "Genero": "Mulher",
           "type": "",
-          "gender": "Male",
+          "genero": "MulherS",
           "origin": {
               "name": "Earth (C-137)",
               "url": "https://rickandmortyapi.com/api/location/1"
@@ -21,7 +21,7 @@
               "name": "Earth (Replacement Dimension)",
               "url": "https://rickandmortyapi.com/api/location/20"
           },
-          "image": "https://raw.githubusercontent.com/Laboratoria/rick-and-morty-images/master/images/1.jpeg",
+          "image": "https://drive.google.com/file/d/1eBSxRRIsLxGBFOVktZpJxUTVe1uO1ygj/view?usp=sharing",
           "episode": [
               "https://rickandmortyapi.com/api/episode/1",
               "https://rickandmortyapi.com/api/episode/2",
