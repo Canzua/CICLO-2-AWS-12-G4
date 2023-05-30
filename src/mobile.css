@@ -1,0 +1,99 @@
+.home {
+    display: flex;
+    background:  #ffff;
+    flex-direction: column;
+}
+    
+.elem-home{
+    justify-content: center;
+    margin: auto;
+
+}
+
+.gif{
+    justify-content: center;
+    width: 270px;
+    height: 270px;
+    margin-right: 1%;
+    margin-top: 10%;
+}
+
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left: 10%;
+}
+
+.title-home{
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    text-shadow: 0 0 0.4em #8F7;
+    color: #00a4bf;
+    align-items: center;
+    font-size: 30px;
+    margin-bottom: 0.5%;
+}
+
+.text-home {
+    align-items: center;
+}
+  
+.container-text{
+    justify-content: center;
+}
+
+.logo{
+    width: 100%;
+}
+
+.menu {
+flex-direction: column; 
+flex-wrap: wrap;
+}
+
+.select-gender{
+    letter-spacing: 8px;
+}
+
+.select-species{
+    letter-spacing: 8px;
+}
+
+.select-status{
+    letter-spacing: 8px;
+}
+
+.select-episode{
+    letter-spacing: 8px;
+}
+
+.searchByName{
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+.stats.visible{
+    width: 95%;
+    left: 0%;
+    font-size: 11px;
+}
+
+.btn {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-right: 0%;
+    margin-top: 5%;
+}
+
+.bodyCards {
+    padding: 0em 0em;
+    text-align: center;
+}
+
+footer{
+    font-size: 11px;
+    width: 100%;
+    left:0%;
+}
