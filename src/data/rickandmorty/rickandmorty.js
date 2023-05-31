@@ -21,7 +21,7 @@ export default {
               "name": "Earth (Replacement Dimension)",
               "url": "https://rickandmortyapi.com/api/location/20"
           },
-          "image": "https://raw.githubusercontent.com/Laboratoria/rick-and-morty-images/master/images/1.jpeg",
+          "image": "img/Andrea.png",
           "episode": [
               "https://rickandmortyapi.com/api/episode/1",
               "https://rickandmortyapi.com/api/episode/2",
@@ -60,7 +60,7 @@ export default {
       },
       {
           "id": 2,
-          "name": "Claudio Miranda da Silva",
+          "name": "Claudio Miranda Oliveira",
           "status": "Alive",
           "species": "Human",
           "type": "",
@@ -73,7 +73,7 @@ export default {
               "name": "Earth (Replacement Dimension)",
               "url": "https://rickandmortyapi.com/api/location/20"
           },
-          "image": "https://raw.githubusercontent.com/Laboratoria/rick-and-morty-images/master/images/2.jpeg",
+          "image": "img/Claudio.png",
           "episode": [
               "https://rickandmortyapi.com/api/episode/1",
               "https://rickandmortyapi.com/api/episode/2",
@@ -215,7 +215,7 @@ export default {
               "name": "Earth (Replacement Dimension)",
               "url": "https://rickandmortyapi.com/api/location/20"
           },
-          "image": "https://raw.githubusercontent.com/Laboratoria/rick-and-morty-images/master/images/5.jpeg",
+          "image": "img/Renata.png",
           "episode": [
               "https://rickandmortyapi.com/api/episode/6",
               "https://rickandmortyapi.com/api/episode/7",

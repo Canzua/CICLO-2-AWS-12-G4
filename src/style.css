@@ -86,6 +86,7 @@ body {
 
 select {
   -webkit-appearance: none;
+  color: #f2f2f2;
   appearance: none;
   padding: 1%;
   text-align: center;
@@ -122,7 +123,7 @@ select:hover {
 }
 
 .clear {
-  color: #304b72;
+  color: #205459;
   text-decoration: underline;
   font-family: "Nunito", sans-serif;
   font-size: 18px;
@@ -216,12 +217,12 @@ select:hover {
 .titleFront {
     font-size: 20px;
     padding-top: 15px;
-    color: #304b72;
+    color: #205459;
     text-align: center;
 }  
 
 .back {
-  background: linear-gradient(#304b72, #ffff);
+  background: linear-gradient(#205459, #ffff);
   width: 100%;
   height: 100%;
   position: absolute;
@@ -241,6 +242,7 @@ select:hover {
 .textBack {
   padding-left: 10px;
   padding-right: 10px;
+  color: #f2f2f2;
 }
 
 .bodyCards {
@@ -251,6 +253,7 @@ select:hover {
 footer {
   position: relative;
   bottom: -60px;
+  color: #f2f2f2;
   background-color: #205459;
   width: 100%;
   height: 50px;
@@ -259,11 +262,11 @@ footer {
 }
 
 a:link {
- color: #304b72;
+ color: #205459;
  ;
 }
 
 a:visited {
-    color: #304b72;
+    color: #205459;
 }
 
